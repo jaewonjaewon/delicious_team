@@ -27,13 +27,13 @@ def mode(x):
     else:
         return np.nan
 
-
 cat_cal = ['count','nunique',mode]
 num_cal = ['sum','mean','median','min','max',mode,'std',q25,q75]
 
 # 코드 도는지 확인 용도로 간단 계산만 해봄.
 #cat_cal = 'count'
 #num_cal=['sum','mean']
+
 
 
 def info_append(uno_info,df,group_index,cal_dict):
@@ -171,5 +171,6 @@ if __name__ == "__main__":
     parser.bookmark_parsing()
     parser.service_parsing()
     parser.coin_parsing()
+
     
     parser.uno_info.to_csv('predict_uno_info.csv')
