@@ -1,0 +1,1789 @@
+[{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82394a"
+  },
+  "encoding": 1,
+  "productcode": "pk_115"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82394b"
+  },
+  "encoding": 2,
+  "productcode": "pk_116"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82394c"
+  },
+  "encoding": 3,
+  "productcode": "pk_117"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82394d"
+  },
+  "encoding": 4,
+  "productcode": "pk_118"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82394e"
+  },
+  "encoding": 5,
+  "productcode": "pk_119"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82394f"
+  },
+  "encoding": 6,
+  "productcode": "pk_120"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823950"
+  },
+  "encoding": 7,
+  "productcode": "pk_121"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823951"
+  },
+  "encoding": 8,
+  "productcode": "pk_122"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823952"
+  },
+  "encoding": 9,
+  "productcode": "pk_123"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823953"
+  },
+  "encoding": 10,
+  "productcode": "pk_124"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823954"
+  },
+  "encoding": 11,
+  "productcode": "pk_125"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823955"
+  },
+  "encoding": 12,
+  "productcode": "pk_126"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823956"
+  },
+  "encoding": 13,
+  "productcode": "pk_127"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823957"
+  },
+  "encoding": 14,
+  "productcode": "pk_128"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823958"
+  },
+  "encoding": 15,
+  "productcode": "pk_129"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823959"
+  },
+  "encoding": 16,
+  "productcode": "pk_130"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82395a"
+  },
+  "encoding": 17,
+  "productcode": "pk_131"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82395b"
+  },
+  "encoding": 18,
+  "productcode": "pk_132"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82395c"
+  },
+  "encoding": 19,
+  "productcode": "pk_133"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82395d"
+  },
+  "encoding": 20,
+  "productcode": "pk_134"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82395e"
+  },
+  "encoding": 21,
+  "productcode": "pk_135"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82395f"
+  },
+  "encoding": 22,
+  "productcode": "pk_137"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823960"
+  },
+  "encoding": 23,
+  "productcode": "pk_138"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823961"
+  },
+  "encoding": 24,
+  "productcode": "pk_139"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823962"
+  },
+  "encoding": 25,
+  "productcode": "pk_140"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823963"
+  },
+  "encoding": 26,
+  "productcode": "pk_141"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823964"
+  },
+  "encoding": 27,
+  "productcode": "pk_142"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823965"
+  },
+  "encoding": 28,
+  "productcode": "pk_143"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823966"
+  },
+  "encoding": 29,
+  "productcode": "pk_144"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823967"
+  },
+  "encoding": 30,
+  "productcode": "pk_145"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823968"
+  },
+  "encoding": 31,
+  "productcode": "pk_156"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823969"
+  },
+  "encoding": 32,
+  "productcode": "pk_157"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82396a"
+  },
+  "encoding": 33,
+  "productcode": "pk_158"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82396b"
+  },
+  "encoding": 34,
+  "productcode": "pk_159"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82396c"
+  },
+  "encoding": 35,
+  "productcode": "pk_160"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82396d"
+  },
+  "encoding": 36,
+  "productcode": "pk_161"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82396e"
+  },
+  "encoding": 37,
+  "productcode": "pk_162"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82396f"
+  },
+  "encoding": 38,
+  "productcode": "pk_163"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823970"
+  },
+  "encoding": 39,
+  "productcode": "pk_171"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823971"
+  },
+  "encoding": 40,
+  "productcode": "pk_183"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823972"
+  },
+  "encoding": 41,
+  "productcode": "pk_184"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823973"
+  },
+  "encoding": 42,
+  "productcode": "pk_185"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823974"
+  },
+  "encoding": 43,
+  "productcode": "pk_186"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823975"
+  },
+  "encoding": 44,
+  "productcode": "pk_187"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823976"
+  },
+  "encoding": 45,
+  "productcode": "pk_188"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823977"
+  },
+  "encoding": 46,
+  "productcode": "pk_191"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823978"
+  },
+  "encoding": 47,
+  "productcode": "pk_307"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823979"
+  },
+  "encoding": 48,
+  "productcode": "pk_308"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82397a"
+  },
+  "encoding": 49,
+  "productcode": "pk_310"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82397b"
+  },
+  "encoding": 50,
+  "productcode": "pk_311"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82397c"
+  },
+  "encoding": 51,
+  "productcode": "pk_316"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82397d"
+  },
+  "encoding": 52,
+  "productcode": "pk_317"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82397e"
+  },
+  "encoding": 53,
+  "productcode": "pk_318"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82397f"
+  },
+  "encoding": 54,
+  "productcode": "pk_319"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823980"
+  },
+  "encoding": 55,
+  "productcode": "pk_320"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823981"
+  },
+  "encoding": 56,
+  "productcode": "pk_321"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823982"
+  },
+  "encoding": 57,
+  "productcode": "pk_325"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823983"
+  },
+  "encoding": 58,
+  "productcode": "pk_326"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823984"
+  },
+  "encoding": 59,
+  "productcode": "pk_327"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823985"
+  },
+  "encoding": 60,
+  "productcode": "pk_328"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823986"
+  },
+  "encoding": 61,
+  "productcode": "pk_329"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823987"
+  },
+  "encoding": 62,
+  "productcode": "pk_334"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823988"
+  },
+  "encoding": 63,
+  "productcode": "pk_335"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823989"
+  },
+  "encoding": 64,
+  "productcode": "pk_336"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82398a"
+  },
+  "encoding": 65,
+  "productcode": "pk_344"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82398b"
+  },
+  "encoding": 66,
+  "productcode": "pk_351"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82398c"
+  },
+  "encoding": 67,
+  "productcode": "pk_352"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82398d"
+  },
+  "encoding": 68,
+  "productcode": "pk_353"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82398e"
+  },
+  "encoding": 69,
+  "productcode": "pk_354"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82398f"
+  },
+  "encoding": 70,
+  "productcode": "pk_370"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823990"
+  },
+  "encoding": 71,
+  "productcode": "pk_371"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823991"
+  },
+  "encoding": 72,
+  "productcode": "pk_372"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823992"
+  },
+  "encoding": 73,
+  "productcode": "pk_373"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823993"
+  },
+  "encoding": 74,
+  "productcode": "pk_378"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823994"
+  },
+  "encoding": 75,
+  "productcode": "pk_379"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823995"
+  },
+  "encoding": 76,
+  "productcode": "pk_380"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823996"
+  },
+  "encoding": 77,
+  "productcode": "pk_381"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823997"
+  },
+  "encoding": 78,
+  "productcode": "pk_383"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823998"
+  },
+  "encoding": 79,
+  "productcode": "pk_384"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823999"
+  },
+  "encoding": 80,
+  "productcode": "pk_385"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82399a"
+  },
+  "encoding": 81,
+  "productcode": "pk_386"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82399b"
+  },
+  "encoding": 82,
+  "productcode": "pk_387"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82399c"
+  },
+  "encoding": 83,
+  "productcode": "pk_388"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82399d"
+  },
+  "encoding": 84,
+  "productcode": "pk_389"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82399e"
+  },
+  "encoding": 85,
+  "productcode": "pk_401"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e82399f"
+  },
+  "encoding": 86,
+  "productcode": "pk_431"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a0"
+  },
+  "encoding": 87,
+  "productcode": "pk_432"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a1"
+  },
+  "encoding": 88,
+  "productcode": "pk_433"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a2"
+  },
+  "encoding": 89,
+  "productcode": "pk_434"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a3"
+  },
+  "encoding": 90,
+  "productcode": "pk_435"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a4"
+  },
+  "encoding": 91,
+  "productcode": "pk_436"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a5"
+  },
+  "encoding": 92,
+  "productcode": "pk_439"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a6"
+  },
+  "encoding": 93,
+  "productcode": "pk_440"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a7"
+  },
+  "encoding": 94,
+  "productcode": "pk_441"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a8"
+  },
+  "encoding": 95,
+  "productcode": "pk_442"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239a9"
+  },
+  "encoding": 96,
+  "productcode": "pk_454"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239aa"
+  },
+  "encoding": 97,
+  "productcode": "pk_455"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ab"
+  },
+  "encoding": 98,
+  "productcode": "pk_767"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ac"
+  },
+  "encoding": 99,
+  "productcode": "pk_768"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ad"
+  },
+  "encoding": 100,
+  "productcode": "pk_771"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ae"
+  },
+  "encoding": 101,
+  "productcode": "pk_772"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239af"
+  },
+  "encoding": 102,
+  "productcode": "pk_773"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b0"
+  },
+  "encoding": 103,
+  "productcode": "pk_775"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b1"
+  },
+  "encoding": 104,
+  "productcode": "pk_776"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b2"
+  },
+  "encoding": 105,
+  "productcode": "pk_777"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b3"
+  },
+  "encoding": 106,
+  "productcode": "pk_805"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b4"
+  },
+  "encoding": 107,
+  "productcode": "pk_806"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b5"
+  },
+  "encoding": 108,
+  "productcode": "pk_807"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b6"
+  },
+  "encoding": 109,
+  "productcode": "pk_826"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b7"
+  },
+  "encoding": 110,
+  "productcode": "pk_827"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b8"
+  },
+  "encoding": 111,
+  "productcode": "pk_828"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239b9"
+  },
+  "encoding": 112,
+  "productcode": "pk_829"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ba"
+  },
+  "encoding": 113,
+  "productcode": "pk_830"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239bb"
+  },
+  "encoding": 114,
+  "productcode": "pk_831"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239bc"
+  },
+  "encoding": 115,
+  "productcode": "pk_840"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239bd"
+  },
+  "encoding": 116,
+  "productcode": "pk_844"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239be"
+  },
+  "encoding": 117,
+  "productcode": "pk_845"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239bf"
+  },
+  "encoding": 118,
+  "productcode": "pk_846"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c0"
+  },
+  "encoding": 119,
+  "productcode": "pk_847"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c1"
+  },
+  "encoding": 120,
+  "productcode": "pk_848"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c2"
+  },
+  "encoding": 121,
+  "productcode": "pk_849"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c3"
+  },
+  "encoding": 122,
+  "productcode": "pk_850"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c4"
+  },
+  "encoding": 123,
+  "productcode": "pk_851"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c5"
+  },
+  "encoding": 124,
+  "productcode": "pk_922"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c6"
+  },
+  "encoding": 125,
+  "productcode": "pk_923"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c7"
+  },
+  "encoding": 126,
+  "productcode": "pk_924"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c8"
+  },
+  "encoding": 127,
+  "productcode": "pk_925"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239c9"
+  },
+  "encoding": 128,
+  "productcode": "pk_926"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ca"
+  },
+  "encoding": 129,
+  "productcode": "pk_927"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239cb"
+  },
+  "encoding": 130,
+  "productcode": "pk_928"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239cc"
+  },
+  "encoding": 131,
+  "productcode": "pk_929"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239cd"
+  },
+  "encoding": 132,
+  "productcode": "pk_930"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ce"
+  },
+  "encoding": 133,
+  "productcode": "pk_931"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239cf"
+  },
+  "encoding": 134,
+  "productcode": "pk_932"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d0"
+  },
+  "encoding": 135,
+  "productcode": "pk_933"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d1"
+  },
+  "encoding": 136,
+  "productcode": "pk_934"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d2"
+  },
+  "encoding": 137,
+  "productcode": "pk_935"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d3"
+  },
+  "encoding": 138,
+  "productcode": "pk_936"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d4"
+  },
+  "encoding": 139,
+  "productcode": "pk_937"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d5"
+  },
+  "encoding": 140,
+  "productcode": "pk_938"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d6"
+  },
+  "encoding": 141,
+  "productcode": "pk_939"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d7"
+  },
+  "encoding": 142,
+  "productcode": "pk_940"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d8"
+  },
+  "encoding": 143,
+  "productcode": "pk_1069"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239d9"
+  },
+  "encoding": 144,
+  "productcode": "pk_1070"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239da"
+  },
+  "encoding": 145,
+  "productcode": "pk_1071"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239db"
+  },
+  "encoding": 146,
+  "productcode": "pk_1072"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239dc"
+  },
+  "encoding": 147,
+  "productcode": "pk_1073"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239dd"
+  },
+  "encoding": 148,
+  "productcode": "pk_1074"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239de"
+  },
+  "encoding": 149,
+  "productcode": "pk_1075"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239df"
+  },
+  "encoding": 150,
+  "productcode": "pk_1076"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e0"
+  },
+  "encoding": 151,
+  "productcode": "pk_1077"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e1"
+  },
+  "encoding": 152,
+  "productcode": "pk_1078"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e2"
+  },
+  "encoding": 153,
+  "productcode": "pk_1079"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e3"
+  },
+  "encoding": 154,
+  "productcode": "pk_1080"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e4"
+  },
+  "encoding": 155,
+  "productcode": "pk_1081"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e5"
+  },
+  "encoding": 156,
+  "productcode": "pk_1082"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e6"
+  },
+  "encoding": 157,
+  "productcode": "pk_1083"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e7"
+  },
+  "encoding": 158,
+  "productcode": "pk_1084"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e8"
+  },
+  "encoding": 159,
+  "productcode": "pk_1085"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239e9"
+  },
+  "encoding": 160,
+  "productcode": "pk_1086"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ea"
+  },
+  "encoding": 161,
+  "productcode": "pk_1087"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239eb"
+  },
+  "encoding": 162,
+  "productcode": "pk_1088"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ec"
+  },
+  "encoding": 163,
+  "productcode": "pk_1089"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ed"
+  },
+  "encoding": 164,
+  "productcode": "pk_1090"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ee"
+  },
+  "encoding": 165,
+  "productcode": "pk_1091"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ef"
+  },
+  "encoding": 166,
+  "productcode": "pk_1092"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f0"
+  },
+  "encoding": 167,
+  "productcode": "pk_1093"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f1"
+  },
+  "encoding": 168,
+  "productcode": "pk_1094"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f2"
+  },
+  "encoding": 169,
+  "productcode": "pk_1095"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f3"
+  },
+  "encoding": 170,
+  "productcode": "pk_1096"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f4"
+  },
+  "encoding": 171,
+  "productcode": "pk_1097"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f5"
+  },
+  "encoding": 172,
+  "productcode": "pk_1098"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f6"
+  },
+  "encoding": 173,
+  "productcode": "pk_1099"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f7"
+  },
+  "encoding": 174,
+  "productcode": "pk_1100"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f8"
+  },
+  "encoding": 175,
+  "productcode": "pk_1101"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239f9"
+  },
+  "encoding": 176,
+  "productcode": "pk_1102"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239fa"
+  },
+  "encoding": 177,
+  "productcode": "pk_1103"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239fb"
+  },
+  "encoding": 178,
+  "productcode": "pk_1104"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239fc"
+  },
+  "encoding": 179,
+  "productcode": "pk_1105"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239fd"
+  },
+  "encoding": 180,
+  "productcode": "pk_1106"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239fe"
+  },
+  "encoding": 181,
+  "productcode": "pk_1107"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e8239ff"
+  },
+  "encoding": 182,
+  "productcode": "pk_1108"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a00"
+  },
+  "encoding": 183,
+  "productcode": "pk_1109"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a01"
+  },
+  "encoding": 184,
+  "productcode": "pk_1110"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a02"
+  },
+  "encoding": 185,
+  "productcode": "pk_1111"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a03"
+  },
+  "encoding": 186,
+  "productcode": "pk_1112"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a04"
+  },
+  "encoding": 187,
+  "productcode": "pk_1113"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a05"
+  },
+  "encoding": 188,
+  "productcode": "pk_1114"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a06"
+  },
+  "encoding": 189,
+  "productcode": "pk_1115"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a07"
+  },
+  "encoding": 190,
+  "productcode": "pk_1116"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a08"
+  },
+  "encoding": 191,
+  "productcode": "pk_1117"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a09"
+  },
+  "encoding": 192,
+  "productcode": "pk_1118"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a0a"
+  },
+  "encoding": 193,
+  "productcode": "pk_1119"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a0b"
+  },
+  "encoding": 194,
+  "productcode": "pk_1120"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a0c"
+  },
+  "encoding": 195,
+  "productcode": "pk_1121"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a0d"
+  },
+  "encoding": 196,
+  "productcode": "pk_1122"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a0e"
+  },
+  "encoding": 197,
+  "productcode": "pk_1123"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a0f"
+  },
+  "encoding": 198,
+  "productcode": "pk_1124"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a10"
+  },
+  "encoding": 199,
+  "productcode": "pk_1125"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a11"
+  },
+  "encoding": 200,
+  "productcode": "pk_1126"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a12"
+  },
+  "encoding": 201,
+  "productcode": "pk_1127"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a13"
+  },
+  "encoding": 202,
+  "productcode": "pk_1128"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a14"
+  },
+  "encoding": 203,
+  "productcode": "pk_1129"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a15"
+  },
+  "encoding": 204,
+  "productcode": "pk_1130"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a16"
+  },
+  "encoding": 205,
+  "productcode": "pk_1131"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a17"
+  },
+  "encoding": 206,
+  "productcode": "pk_1132"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a18"
+  },
+  "encoding": 207,
+  "productcode": "pk_1133"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a19"
+  },
+  "encoding": 208,
+  "productcode": "pk_1134"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a1a"
+  },
+  "encoding": 209,
+  "productcode": "pk_1135"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a1b"
+  },
+  "encoding": 210,
+  "productcode": "pk_1136"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a1c"
+  },
+  "encoding": 211,
+  "productcode": "pk_1137"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a1d"
+  },
+  "encoding": 212,
+  "productcode": "pk_1138"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a1e"
+  },
+  "encoding": 213,
+  "productcode": "pk_1139"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a1f"
+  },
+  "encoding": 214,
+  "productcode": "pk_1140"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a20"
+  },
+  "encoding": 215,
+  "productcode": "pk_1141"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a21"
+  },
+  "encoding": 216,
+  "productcode": "pk_1142"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a22"
+  },
+  "encoding": 217,
+  "productcode": "pk_1143"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a23"
+  },
+  "encoding": 218,
+  "productcode": "pk_1144"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a24"
+  },
+  "encoding": 219,
+  "productcode": "pk_1145"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a25"
+  },
+  "encoding": 220,
+  "productcode": "pk_1146"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a26"
+  },
+  "encoding": 221,
+  "productcode": "pk_1147"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a27"
+  },
+  "encoding": 222,
+  "productcode": "pk_1148"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a28"
+  },
+  "encoding": 223,
+  "productcode": "pk_1149"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a29"
+  },
+  "encoding": 224,
+  "productcode": "pk_1150"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a2a"
+  },
+  "encoding": 225,
+  "productcode": "pk_1151"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a2b"
+  },
+  "encoding": 226,
+  "productcode": "pk_1152"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a2c"
+  },
+  "encoding": 227,
+  "productcode": "pk_1153"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a2d"
+  },
+  "encoding": 228,
+  "productcode": "pk_1154"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a2e"
+  },
+  "encoding": 229,
+  "productcode": "pk_1155"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a2f"
+  },
+  "encoding": 230,
+  "productcode": "pk_1156"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a30"
+  },
+  "encoding": 231,
+  "productcode": "pk_1157"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a31"
+  },
+  "encoding": 232,
+  "productcode": "pk_1158"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a32"
+  },
+  "encoding": 233,
+  "productcode": "pk_1159"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a33"
+  },
+  "encoding": 234,
+  "productcode": "pk_1160"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a34"
+  },
+  "encoding": 235,
+  "productcode": "pk_1161"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a35"
+  },
+  "encoding": 236,
+  "productcode": "pk_1162"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a36"
+  },
+  "encoding": 237,
+  "productcode": "pk_1163"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a37"
+  },
+  "encoding": 238,
+  "productcode": "pk_1164"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a38"
+  },
+  "encoding": 239,
+  "productcode": "pk_1165"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a39"
+  },
+  "encoding": 240,
+  "productcode": "pk_1166"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a3a"
+  },
+  "encoding": 241,
+  "productcode": "pk_1167"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a3b"
+  },
+  "encoding": 242,
+  "productcode": "pk_1168"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a3c"
+  },
+  "encoding": 243,
+  "productcode": "pk_1169"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a3d"
+  },
+  "encoding": 244,
+  "productcode": "pk_1170"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a3e"
+  },
+  "encoding": 245,
+  "productcode": "pk_1171"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a3f"
+  },
+  "encoding": 246,
+  "productcode": "pk_1172"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a40"
+  },
+  "encoding": 247,
+  "productcode": "pk_1205"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a41"
+  },
+  "encoding": 248,
+  "productcode": "pk_1348"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a42"
+  },
+  "encoding": 249,
+  "productcode": "pk_1349"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a43"
+  },
+  "encoding": 250,
+  "productcode": "pk_1350"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a44"
+  },
+  "encoding": 251,
+  "productcode": "pk_1351"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a45"
+  },
+  "encoding": 252,
+  "productcode": "pk_1352"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a46"
+  },
+  "encoding": 253,
+  "productcode": "pk_1486"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a47"
+  },
+  "encoding": 254,
+  "productcode": "pk_1487"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a48"
+  },
+  "encoding": 255,
+  "productcode": "pk_1488"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a49"
+  },
+  "encoding": 256,
+  "productcode": "pk_1489"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a4a"
+  },
+  "encoding": 257,
+  "productcode": "pk_1494"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a4b"
+  },
+  "encoding": 258,
+  "productcode": "pk_1495"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a4c"
+  },
+  "encoding": 259,
+  "productcode": "pk_1496"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a4d"
+  },
+  "encoding": 260,
+  "productcode": "pk_1497"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a4e"
+  },
+  "encoding": 261,
+  "productcode": "pk_1498"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a4f"
+  },
+  "encoding": 262,
+  "productcode": "pk_1504"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a50"
+  },
+  "encoding": 263,
+  "productcode": "pk_1506"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a51"
+  },
+  "encoding": 264,
+  "productcode": "pk_1507"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a52"
+  },
+  "encoding": 265,
+  "productcode": "pk_1508"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a53"
+  },
+  "encoding": 266,
+  "productcode": "pk_1509"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a54"
+  },
+  "encoding": 267,
+  "productcode": "pk_1510"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a55"
+  },
+  "encoding": 268,
+  "productcode": "pk_1511"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a56"
+  },
+  "encoding": 269,
+  "productcode": "pk_1522"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a57"
+  },
+  "encoding": 270,
+  "productcode": "pk_1738"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a58"
+  },
+  "encoding": 271,
+  "productcode": "pk_1897"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a59"
+  },
+  "encoding": 272,
+  "productcode": "pk_1898"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a5a"
+  },
+  "encoding": 273,
+  "productcode": "pk_2005"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a5b"
+  },
+  "encoding": 274,
+  "productcode": "pk_2024"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a5c"
+  },
+  "encoding": 275,
+  "productcode": "pk_2025"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a5d"
+  },
+  "encoding": 276,
+  "productcode": "pk_2026"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a5e"
+  },
+  "encoding": 277,
+  "productcode": "pk_2027"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a5f"
+  },
+  "encoding": 278,
+  "productcode": "pk_2028"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a60"
+  },
+  "encoding": 279,
+  "productcode": "pk_2029"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a61"
+  },
+  "encoding": 280,
+  "productcode": "co_1174"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a62"
+  },
+  "encoding": 281,
+  "productcode": "co_1175"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a63"
+  },
+  "encoding": 282,
+  "productcode": "co_1176"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a64"
+  },
+  "encoding": 283,
+  "productcode": "co_1177"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a65"
+  },
+  "encoding": 284,
+  "productcode": "co_1476"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a66"
+  },
+  "encoding": 285,
+  "productcode": "co_1477"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a67"
+  },
+  "encoding": 286,
+  "productcode": "co_174"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a68"
+  },
+  "encoding": 287,
+  "productcode": "co_176"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a69"
+  },
+  "encoding": 288,
+  "productcode": "co_181"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a6a"
+  },
+  "encoding": 289,
+  "productcode": "co_182"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a6b"
+  },
+  "encoding": 290,
+  "productcode": "co_2031"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a6c"
+  },
+  "encoding": 291,
+  "productcode": "co_2032"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a6d"
+  },
+  "encoding": 292,
+  "productcode": "co_2033"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a6e"
+  },
+  "encoding": 293,
+  "productcode": "co_2034"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a6f"
+  },
+  "encoding": 294,
+  "productcode": "co_391"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a70"
+  },
+  "encoding": 295,
+  "productcode": "co_942"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a71"
+  },
+  "encoding": 296,
+  "productcode": "co_943"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a72"
+  },
+  "encoding": 297,
+  "productcode": "co_944"
+},{
+  "_id": {
+    "$oid": "60e1d713c25f980f2e823a73"
+  },
+  "encoding": 298,
+  "productcode": "co_945"
+}]

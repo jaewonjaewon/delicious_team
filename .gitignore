@@ -6,3 +6,6 @@ venv
 
 **/eval_result
 **/saved_model
+
+csv_cleaning/data
+csv_cleaning/result

@@ -1,0 +1,183 @@
+[{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823930"
+  },
+  "encoding": 1,
+  "devicetypeid": 1,
+  "devicetype": "pc"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823931"
+  },
+  "encoding": 2,
+  "devicetypeid": 2,
+  "devicetype": "ios"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823932"
+  },
+  "encoding": 3,
+  "devicetypeid": 3,
+  "devicetype": "ios"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823933"
+  },
+  "encoding": 4,
+  "devicetypeid": 4,
+  "devicetype": "android"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823934"
+  },
+  "encoding": 5,
+  "devicetypeid": 5,
+  "devicetype": "android"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823935"
+  },
+  "encoding": 6,
+  "devicetypeid": 6,
+  "devicetype": "smarttv"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823936"
+  },
+  "encoding": 7,
+  "devicetypeid": 7,
+  "devicetype": "ott"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823937"
+  },
+  "encoding": 8,
+  "devicetypeid": 8,
+  "devicetype": "mobile"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823938"
+  },
+  "encoding": 9,
+  "devicetypeid": 12,
+  "devicetype": "lgchplus"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823939"
+  },
+  "encoding": 10,
+  "devicetypeid": 13,
+  "devicetype": "ibb"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e82393a"
+  },
+  "encoding": 11,
+  "devicetypeid": 21,
+  "devicetype": "chromecast"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e82393b"
+  },
+  "encoding": 12,
+  "devicetypeid": 27,
+  "devicetype": "sstv"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e82393c"
+  },
+  "encoding": 13,
+  "devicetypeid": 31,
+  "devicetype": "ssfamilyhub"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e82393d"
+  },
+  "encoding": 14,
+  "devicetypeid": 32,
+  "devicetype": "lgtv"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e82393e"
+  },
+  "encoding": 15,
+  "devicetypeid": 66,
+  "devicetype": "tiviva"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e82393f"
+  },
+  "encoding": 16,
+  "devicetypeid": 71,
+  "devicetype": "ott_unocube"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823940"
+  },
+  "encoding": 17,
+  "devicetypeid": 72,
+  "devicetype": "unocube_live"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823941"
+  },
+  "encoding": 18,
+  "devicetypeid": 73,
+  "devicetype": "ott_skylife"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823942"
+  },
+  "encoding": 19,
+  "devicetypeid": 74,
+  "devicetype": "ott_dlive"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823943"
+  },
+  "encoding": 20,
+  "devicetypeid": 75,
+  "devicetype": "ott_hanliutv"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823944"
+  },
+  "encoding": 21,
+  "devicetypeid": 76,
+  "devicetype": "ott_titan"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823945"
+  },
+  "encoding": 22,
+  "devicetypeid": 77,
+  "devicetype": "ott_cjhello"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823946"
+  },
+  "encoding": 23,
+  "devicetypeid": 78,
+  "devicetype": "ott_telebee"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823947"
+  },
+  "encoding": 24,
+  "devicetypeid": 79,
+  "devicetype": "ott_kraizer"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823948"
+  },
+  "encoding": 25,
+  "devicetypeid": 80,
+  "devicetype": "ott_skya"
+},{
+  "_id": {
+    "$oid": "60e1d6fdc25f980f2e823949"
+  },
+  "encoding": 26,
+  "devicetypeid": 81,
+  "devicetype": "ott_unocube2"
+}]
