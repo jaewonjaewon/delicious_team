@@ -72,9 +72,9 @@ class Metrics:
             }
             evaluation_result["summary"]["metrics"].append(metric)
 
-            print(f'Label: {label}, TP: {TP}, FP: {FP}, FN: {FN}, TN: {TN}')
-            print(f'Prediction: {pred_count}')
-            print(f'Answer: {answer_count}')
+            # print(f'Label: {label}, TP: {TP}, FP: {FP}, FN: {FN}, TN: {TN}')
+            # print(f'Prediction: {pred_count}')
+            # print(f'Answer: {answer_count}')
         
         total_metric = {}
         for key in ['precision', 'recall', 'f1']:

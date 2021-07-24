@@ -14,23 +14,47 @@ from metrics import Metrics
 print("Tensorflow version: {}".format(tf.__version__))
 print("Eager execution: {}".format(tf.executing_eagerly()))
 
-batch_size = 1000
+batch_size = 500
+epoch = 100
 lr = 1e-2
-input_shape = (28, 28, 1)
-tiled_shape = (56, 56, 3)
-label_list = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+input_shape = (162)
+label_list = [0, 1]
 SAVER_DIR = "./saved_model"
 EVAL_DIR = "./eval_result"
 
-# Not used. tf.example is deprecated.
-binary_location = os.path.join(os.path.dirname(__file__), "dataset", "binary")
+TRAIN_DATA_PATH = "./train_data/train_result_train.csv"
+TEST_DATA_PATH = "./train_data/train_result_valid.csv"
 
-(image_train, label_train), (image_test, label_test) = tf.keras.datasets.mnist.load_data()
-image_train, image_test = image_train / 255.0, image_test / 255.0
+def get_dataset(file_path, **kwargs):
+  dataset = tf.data.experimental.make_csv_dataset(
+      file_path,
+      batch_size=batch_size, # Artificially small to make examples easier to show.
+      label_name='Repurchase',
+      na_value="",
+      num_epochs=epoch,
+      ignore_errors=True,
+      **kwargs)
+  return dataset
 
-train_ds = tf.data.Dataset.from_tensor_slices((image_train, label_train)).shuffle(5000).batch(batch_size)
-test_ds = tf.data.Dataset.from_tensor_slices((image_test, label_test)).batch(batch_size)
+raw_train_data = get_dataset(TRAIN_DATA_PATH)
+raw_test_data = get_dataset(TEST_DATA_PATH)
 
+def pack(features, label):
+  features_value = list(features.values())
+  convert_float = [tf.cast(feat, tf.float32) for feat in features_value]
+  return tf.stack(convert_float, axis=-1), label
+
+packed_train_data = raw_train_data.map(pack)
+packed_test_data = raw_test_data.map(pack)
+
+for features, labels in packed_train_data.take(1):
+  print(f'Batch size: {len(features.numpy())}')
+  print(f'Column size: {len(features.numpy()[0])}')
+  print()
+  print(labels.numpy())
+
+train_ds = packed_train_data.shuffle(500)
+test_ds = packed_test_data
 
 def cnn_block(input, id):
     x = layers.Conv2D(8, 6, activation='relu', name='conv_1_{}'.format(id), dtype=tf.float64)(input)
@@ -39,7 +63,6 @@ def cnn_block(input, id):
     x = layers.Conv2D(32, 6, activation='relu', name='conv_4_{}'.format(id))(x)
     return x
 
- 
 # Optimizer
 loss_object = tf.keras.losses.SparseCategoricalCrossentropy()
 optimizer = tf.keras.optimizers.Adam(learning_rate=lr)
@@ -74,14 +97,6 @@ def test_step(images, labels, model):
     return predictions
 
 
-def tile_images(x, is_res50v2):
-    x = tf.expand_dims(x, axis=3)
-    if is_res50v2:
-        multiples = tf.constant([1, 2, 2, 3], tf.int32)
-        return tf.tile(x, multiples)
-    return x
-
-
 def main(epoch, is_res50v2, model, checkpoint_epoch=10):
 
     metrics = Metrics(label_list, EVAL_DIR)
@@ -92,10 +107,10 @@ def main(epoch, is_res50v2, model, checkpoint_epoch=10):
         preds = []
 
         for x, y in train_ds:
-            train_step(tile_images(x, is_res50v2), y, model)
+            train_step(x, y, model)
 
         for x, y in test_ds:
-            pred = test_step(tile_images(x, is_res50v2), y, model)
+            pred = test_step(x, y, model)
 
             if ep % checkpoint_epoch == 0:
                 inputs.append(x)
@@ -121,7 +136,7 @@ def main(epoch, is_res50v2, model, checkpoint_epoch=10):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument('--epoch', type=int, default=10, help='Total epoch')
+    parser.add_argument('--epoch', type=int, default=epoch, help='Total epoch')
     parser.add_argument('--res50v2', type=bool, default=False, help='Use predefined keras resnet model.')
     parser.add_argument('--eval', type=bool, default=False, help='Evaluation mode.')
     args = parser.parse_args()
@@ -132,7 +147,7 @@ if __name__ == '__main__':
 
     if args.res50v2:
         # Heavy model (Predefined keras model)
-        model_keras = tf.keras.applications.ResNet50V2(weights='imagenet', include_top=False, input_shape=tiled_shape)
+        model_keras = tf.keras.applications.ResNet50V2(weights='imagenet', include_top=False, input_shape=input_shape)
         xh = layers.Flatten()(model_keras.layers[-1].output)
         output = layers.Dense(10, activation='softmax', name='dense_final')(xh)
 
@@ -140,12 +155,12 @@ if __name__ == '__main__':
     else:
         # Light model (Simple cnn model)
         inputs = tf.keras.Input(shape=input_shape, name='image', dtype=tf.float32)
-        x = cnn_block(inputs, '1')
-        x = layers.Flatten()(x)
-        # x = layers.Dense(30, activation='relu', name='dense_1')(x)
-        outputs = layers.Dense(10, activation='softmax', name='dense_2')(x)
+        # x = cnn_block(inputs, '1')
+        x = layers.Flatten()(inputs)
+        x = layers.Dense(30, activation='relu', name='dense_1')(x)
+        outputs = layers.Dense(2, activation='softmax', name='dense_2')(x)
 
-        model = Model(inputs=inputs, outputs=outputs, name='mnist')
+        model = Model(inputs=inputs, outputs=outputs, name='delicious')
 
     model.summary()
     tf.keras.backend.set_floatx('float64')
